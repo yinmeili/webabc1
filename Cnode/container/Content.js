@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import {Route,Link} from 'react-router-dom'
-// import './content.css'
 export default class Content extends Component {
     constructor(){
         super();
